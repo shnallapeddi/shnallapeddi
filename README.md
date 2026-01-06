@@ -15,6 +15,6 @@ I am a product-driven engineer who enjoys solving complex problems that blend **
 ## Research 
 My research explores **efficient deep learning** (Memory-Augmented LSTMs) and **adaptive automation** (RL-driven hydroponics). I’m motivated by applying AI across domains like **finance, sustainability, agriculture, and healthcare**.
 
-
+### Note: Professional references and recommendations are available upon request.
 
 
