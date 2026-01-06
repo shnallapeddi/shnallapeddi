@@ -19,13 +19,13 @@ My research explores **efficient deep learning** (Memory-Augmented LSTMs) and **
 **Mail:** nallapeddisharanya@gmail.com
 
 Feel free to explore my repositories, a few of my favorite projects are highlighted below.
-- **[Auto Encoders & Transformers]((https://github.com/shnallapeddi/AutoEncoders-Transformers)** : A multi-modal notebook lab spanning **autoencoder reconstruction for anomaly detection**, **Transformers built from scratch in PyTorch**, and applied **LLM workflows** (classification + summarization), plus a **Vision Transformer (ViT)** pipeline for image classification.
+- **[AutoEncoders and Transformers](https://github.com/shnallapeddi/AutoEncoders-Transformers)** : A multi-modal notebook lab spanning **autoencoder reconstruction for anomaly detection**, **Transformers built from scratch in PyTorch**, and applied **LLM workflows** (classification + summarization), plus a **Vision Transformer (ViT)** pipeline for image classification.
 
-- **[CNN, RNN & LSTMs](https://github.com/shnallapeddi/CNN-RNN-LSTM)** : A hands-on deep learning suite that contrasts **CNN backbones (VGG → ResNet → ResNeXt)** with **sequence models (RNN/LSTM)**, including **vanishing-gradient diagnostics**, **LSTM sentiment analysis**, and **RNN-based time-series forecasting** with practical evaluation metrics.
+- **[CNN, RNN and LSTM](https://github.com/shnallapeddi/CNN-RNN-LSTM)**: A hands-on deep learning suite that contrasts **CNN backbones (VGG → ResNet → ResNeXt)** with **sequence models (RNN/LSTM)**, including **vanishing-gradient diagnostics**, **LSTM sentiment analysis**, and **RNN-based time-series forecasting** with practical evaluation metrics.
 
 - **[Memory Augmented LSTMs](https://github.com/shnallapeddi/MemoryAugmentedLSTMs)** : “Memory on Demand”: explores **Memory-Augmented LSTMs** with a **differentiable key–value memory (Neural Dictionary)** to reduce catastrophic forgetting and push **few-shot sentiment** toward Transformer-like performance with lighter compute. *(Peer-reviewed paper included in repo.)* 
 
-- **[Environmental, Social & Governance(ESG)](https://github.com/shnallapeddi/ESG)** : An **ESG Network Analytics** prototype that uses **graph network analysis** (including **Louvain clustering** + **connected components**) to map portfolio relationships and surface **hidden direct/indirect ESG risk** that traditional reports often miss.
+- **[Environmental, Social and Governance(ESG)](https://github.com/shnallapeddi/ESG)**: An **ESG Network Analytics** prototype that uses **graph network analysis** (including **Louvain clustering** + **connected components**) to map portfolio relationships and surface **hidden direct/indirect ESG risk** that traditional reports often miss.
 
 
 
