@@ -15,7 +15,18 @@ I am a product-driven engineer who enjoys solving complex problems that blend **
 ## Research 
 My research explores **efficient deep learning** (Memory-Augmented LSTMs) and **adaptive automation** (RL-driven hydroponics). I’m motivated by applying AI across domains like **finance, sustainability, agriculture, and healthcare**.
 
-### Note: Resume, professional references and recommendations are available upon request.
+##### Note: Resume, professional references and recommendations are available upon request.
 **Mail:** nallapeddisharanya@gmail.com
+
+Feel free to explore my repositories, a few of my favorite projects are highlighted below.
+- **AutoEncoders-Transformers** — A multi-modal notebook lab spanning **autoencoder reconstruction for anomaly detection**, **Transformers built from scratch in PyTorch**, and applied **LLM workflows** (classification + summarization), plus a **Vision Transformer (ViT)** pipeline for image classification. :contentReference[oaicite:0]{index=0}
+
+- **CNN-RNN-LSTM** — A hands-on deep learning suite that contrasts **CNN backbones (VGG → ResNet → ResNeXt)** with **sequence models (RNN/LSTM)**, including **vanishing-gradient diagnostics**, **LSTM sentiment analysis**, and **RNN-based time-series forecasting** with practical evaluation metrics. :contentReference[oaicite:1]{index=1}
+
+- **MemoryAugmentedLSTMs** — “Memory on Demand”: explores **Memory-Augmented LSTMs** with a **differentiable key–value memory (Neural Dictionary)** to reduce catastrophic forgetting and push **few-shot sentiment** toward Transformer-like performance with lighter compute. *(Peer-reviewed paper included in repo.)* :contentReference[oaicite:2]{index=2}
+
+- **ESG** — An **ESG Network Analytics** prototype that uses **graph network analysis** (including **Louvain clustering** + **connected components**) to map portfolio relationships and surface **hidden direct/indirect ESG risk** that traditional reports often miss. :contentReference[oaicite:3]{index=3}
+
+
 
 
