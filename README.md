@@ -6,13 +6,15 @@ I am a product-driven engineer who enjoys solving complex problems that blend **
 **Industry experience** at Cognizant Technology Solutions, where I worked on the JPMorgan Chase & Co. account.
 **Recent roles** include Software Engineer (Full-Stack).
 
-**Industry Highlights**
+## Industry highlights
 - Led a 6-member team modernizing a 15-year-old JPMorgan Chase service into **Spring Boot microservices** supporting **30,000+ high-net-worth accounts/month** which previously costed the firm $100,000.
 - Built a **JAXB proxy** for XML ↔ Java conversion, saving **$15K**
 - Built an **ESG graph + LLM extraction prototype**; with **Louvain clustering**, uncovered risk across **3 supplier tiers** and revealed **$30–35M** in new banking opportunities  
   Demo: https://github.com/shnallapeddi/ESG
 
-**Research**
+## Research 
 My research explores **efficient deep learning** (Memory-Augmented LSTMs) and **adaptive automation** (RL-driven hydroponics). I’m motivated by applying AI across domains like **finance, sustainability, agriculture, and healthcare**.
+
+
 
 
